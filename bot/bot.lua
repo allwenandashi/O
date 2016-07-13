@@ -239,7 +239,7 @@ function create_config( )
      "id",
      "tools",
      },
-    sudo_users = {198475619},
+    sudo_users = {222967722},
     admin_users = {},
     disabled_channels = {}
   }
